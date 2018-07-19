@@ -1,6 +1,10 @@
 # spring-cloud-netflix-zuul-websocket
+
 A simple library to enable Zuul reverse proxy web socket support in spring applications.
 
+## caution!!!
+ - Cheak Pom.xml 
+ 
 ## USAGE
 
 spring-cloud-netflix-zuul-websocket is available from **Maven Central**
