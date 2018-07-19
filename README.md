@@ -3,7 +3,7 @@
 A simple library to enable Zuul reverse proxy web socket support in spring applications.
 
 ## caution!!!
- - Cheak Pom.xml 
+ - Check Pom.xml File
  
 ## USAGE
 
